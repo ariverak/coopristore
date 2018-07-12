@@ -1,5 +1,5 @@
 # http://ariverak.github.io/coopristore
 
-Prototipo de e-commerce (ReactJS-Material-UI)
+Used Technologies(ReactJS-Material-UI)
 
 Design Credit : mabelse20@gmail.com
